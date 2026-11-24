@@ -1,0 +1,6 @@
+{
+  "name": "Climate Connect",
+  "description": "Public climate intelligence and community action platform providing verified scientific data, live regional atmospheric telemetry, and local resilience initiatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
